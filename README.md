@@ -19,7 +19,7 @@ This project implements a Boid simulation based on Craig Reynolds' Boid algorith
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Warping/Boid-Pathing.git
    cd Boid-Pathing
    ```
 2. Install the required dependencies:
@@ -59,6 +59,12 @@ boid_parameters = {
 
 ## Example Output
 
-The simulation visualizes the boids as triangles that move and interact in real-time. Metrics such as average distance to the target and collisions are plotted after the simulation ends.
+The simulation visualizes the boids as triangles that move and interact in real-time. Below are some example screenshots of the simulation:
+
+![Example Output 1](example_output_imgs/Screenshot%20from%202025-05-12%2001-55-51.png)
+
+![Example Output 2](example_output_imgs/Screenshot%20from%202025-05-12%2001-56-17.png)
+
+![Example Output 3](example_output_imgs/Screenshot%20from%202025-05-12%2001-56-27.png)
 
 Enjoy experimenting with the Boid Pathing Simulation!
