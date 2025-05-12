@@ -7,7 +7,6 @@ This project implements a Boid simulation based on Craig Reynolds' Boid algorith
 - **Boid Behavior**: Implements alignment, cohesion, separation, and targeting behaviors.
 - **Customizable Parameters**: Allows users to configure boid parameters such as speed, acceleration, and angular velocity.
 - **Visualization**: Real-time rendering of boids and their interactions.
-- **Mouse Targeting**: Boids can target the mouse position dynamically.
 - **Data Analysis**: Plots metrics such as average distance to target and collisions over time.
 
 ## Requirements
@@ -61,16 +60,5 @@ boid_parameters = {
 ## Example Output
 
 The simulation visualizes the boids as triangles that move and interact in real-time. Metrics such as average distance to the target and collisions are plotted after the simulation ends.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-
-- Craig Reynolds for the original Boid algorithm.
-- Pygame and Matplotlib for visualization and plotting.
-
----
 
 Enjoy experimenting with the Boid Pathing Simulation!
